@@ -3,4 +3,4 @@
 </div>
 
 
-<a href="https://www.youtube.com/watch?v=yqq_h6TpUNk" target="_blank"><img src="https://i.pinimg.com/736x/50/8d/de/508ddea28797cce814668ab5a083919d.jpg" width="320" height="150"></a> <-- click for some dark techno music
+<a href="https://www.youtube.com/watch?v=yqq_h6TpUNk&list=TLPQMjYwMTIwMjX-u1w2KKm0Hw&index=1" target="_blank"><img src="https://i.pinimg.com/736x/50/8d/de/508ddea28797cce814668ab5a083919d.jpg" width="320" height="150"></a> <-- click for some dark techno music
