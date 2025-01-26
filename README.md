@@ -3,5 +3,4 @@
 </div>
 
 
-[![Best HAkeR Bg Sound](https://img.youtube.com/watch?v=yqq_h6TpUNk)](https://www.youtube.com/watch?v=yqq_h6TpUNk)
-
+<a href="https://www.youtube.com/watch?v=yqq_h6TpUNk" target="_blank"><img src="https://i.pinimg.com/736x/50/8d/de/508ddea28797cce814668ab5a083919d.jpg" width="320" height="150" style="filter: grayscale(1);"></a> <-- click for some dark techno music
