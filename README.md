@@ -5,5 +5,5 @@
                             | |_| | | (_| | \__ \ | | \__ \
                              \___/   \__,_| |___/ |_| |___/
    
-                           dEVeLOpEr && pEnTeSTeR && aRtiSt 
+                            dEVeLOpEr && pEnTeSTeR && aRtiSt 
 ```                             
