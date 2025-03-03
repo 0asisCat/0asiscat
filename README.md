@@ -5,7 +5,7 @@
                                   | |_| | | (_| | \__ \ | | \__ \
                                    \___/   \__,_| |___/ |_| |___/
    
-                                  aRTiSt && dEVeLOpEr && pEnTESTeR
+                                  artist && developer && pentester
 ```                             
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" />
 
