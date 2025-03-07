@@ -5,8 +5,8 @@
                                   | |_| | | (_| | \__ \ | | \__ \
                                    \___/   \__,_| |___/ |_| |___/
 
-                                        subjectOfInterest =
-                              ["programming", "cybersecurity", "ai"]
+                                        subjectOfInterests =
+                                  ["programming", "hacking", "ai"]
 ```                             
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" />
 
