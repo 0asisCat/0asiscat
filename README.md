@@ -9,6 +9,6 @@
                                   ["programming", "hacking", "ai"]
 
 ```                             
-<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="25%"/>
 
 <img src="https://www.codewars.com/users/0asisCat/badges/small"></img>
