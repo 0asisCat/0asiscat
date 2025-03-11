@@ -6,10 +6,10 @@
                                    \___/   \__,_| |___/ |_| |___/
 
                 let profile = {
-									status: "script_skibidi",
-									pc_specs: { overall_rating: "fcked", os: "parrot", cpu: "intel i5", ram: "4GB", gpu: "NI-TBA" }
-									current_SOIs: [ "programming", "hacking", "ai" ],
-								}
+				status: "script_skibidi",
+				pc_specs: { overall_rating: "fcked", os: "parrot", cpu: "intel i5", ram: "4GB", gpu: "NI-TBA" }
+				current_SOIs: [ "programming", "hacking", "ai" ],
+			}
 
 ```                             
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
