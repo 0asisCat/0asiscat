@@ -5,7 +5,7 @@
                                   | |_| | | (_| | \__ \ | | \__ \
                                    \___/   \__,_| |___/ |_| |___/
 
-	let profile = {
+let profile = {
 			status: "script_skibidi",
 			pc_specs: { overall_rating: "fcked", os: "parrot", cpu: "intel i5", ram: "4GB", gpu: "NI-TBA" }
 			current_SOIs: [ "programming", "hacking", "ai" ],
