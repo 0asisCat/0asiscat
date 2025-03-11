@@ -14,7 +14,8 @@
 						gpu: "Intel HD graphics 620",
 						ram: "8GB"
 				},
-				current_SOIs: [ "programming", "hacking", "ai" ]
+				current_SOIs: [ "programming", "hacking", "ai" ],
+				studyingLang: [ "js", "python", "java", "c" ]
 			      };
 
 ```
