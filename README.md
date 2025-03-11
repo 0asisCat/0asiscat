@@ -6,7 +6,7 @@
                                    \___/   \__,_| |___/ |_| |___/
 
 		let profile = {
-				status: "script_kibidi",
+				status: "script_skibidi",
 				pc_specs: {
 						overall_rating: "low-mid",
 						os: "Parrot Security",
