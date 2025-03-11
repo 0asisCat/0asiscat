@@ -5,13 +5,21 @@
                                   | |_| | | (_| | \__ \ | | \__ \
                                    \___/   \__,_| |___/ |_| |___/
 
-let profile = {
-			status: "script_skibidi",
-			pc_specs: { overall_rating: "fcked", os: "parrot", cpu: "intel i5", ram: "4GB", gpu: "NI-TBA" }
-			current_SOIs: [ "programming", "hacking", "ai" ],
-		}
+		let profile = {
+				status: "script_kibidi",
+				pc_specs: {
+						overall_rating: "low-mid",
+						os: "Parrot Security",
+						cpu: "Intel i5-7200U",
+						gpu: "Intel HD graphics 620",
+						ram: "8GB",
+					}
+				current_SOIs: [ "programming", "hacking", "ai" ],
+			      }
 
-```                             
-<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
-
-<img src="https://www.codewars.com/users/0asisCat/badges/small"></img>
+```
+<details>                      
+	<summary>PROFILE BANNERS</summary>
+	<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
+	<img src="https://www.codewars.com/users/0asisCat/badges/large" />
+</details>
