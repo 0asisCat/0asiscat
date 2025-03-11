@@ -12,10 +12,10 @@
 						os: "Parrot Security",
 						cpu: "Intel i5-7200U",
 						gpu: "Intel HD graphics 620",
-						ram: "8GB",
-					}
-				current_SOIs: [ "programming", "hacking", "ai" ],
-			      }
+						ram: "8GB"
+				},
+				current_SOIs: [ "programming", "hacking", "ai" ]
+			      };
 
 ```
 <details>                      
