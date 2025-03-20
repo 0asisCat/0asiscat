@@ -15,10 +15,10 @@
 				},
 				current_SOIs: [ "developing", "breaking", "art" ],
 				studyingLang: [
-						{ name: "js", lvl: "mid" },
-						{ name: "python", lvl: "low-mid" },
-						{ name: "java", lvl: "lowww"},
-						{ name: "c", lvl: "wtfisthis"}
+						{ lang: "js", lvl: "mid" },
+						{ lang: "python", lvl: "low-mid" },
+						{ lang: "java", lvl: "lowww"},
+						{ lang: "c", lvl: "wtfisthis"}
 				]
 			      };
 
