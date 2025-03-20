@@ -24,7 +24,7 @@
 
 ```
 <details>                      
-	<summary>|^ /? () /= | |_ [-   ]3 /\ |\| |\| [- /? _\~		(★^O^★)~~[CLICK ME]</summary>
+	<summary>|^ /? () /= | |_ [-   ]3 /\ |\| |\| [- /? _\~		<strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
 	<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
 	<img src="https://www.codewars.com/users/0asisCat/badges/large" />
 </details>
