@@ -14,7 +14,12 @@
 						ram: "8GB"
 				},
 				current_SOIs: [ "programming", "hacking", "ai" ],
-				studyingLang: [ "js", "python", "java", "c" ]
+				studyingLang: [
+						{ name: "js", lvl: "mid" },
+						{ name: "python", lvl: "low-mid" },
+						{ name: "java", lvl: "lowww"},
+						{ name: "c", lvl: "wtfisthis"}
+				]
 			      };
 
 ```
