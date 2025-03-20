@@ -8,7 +8,7 @@
 		let profile = {
 				status: "script_skibidi",
 				pc_specs: {
-						overall_rating: "mid *thumbs down",
+						overall_rating: "mid *thumbs_down",
 						cpu: "Intel i5-7200U",
 						gpu: "Intel HD graphics 620",
 						ram: "8GB"
