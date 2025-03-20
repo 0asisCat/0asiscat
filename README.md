@@ -23,8 +23,23 @@
 			      };
 
 ```
-<details>                      
-	<summary>|^ /? () /= | |_ [-   ]3 /\ |\| |\| [- /? _\~		<strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
-	<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
-	<img src="https://www.codewars.com/users/0asisCat/badges/large" />
+<details>   
+	
+<summary>|^ /? () /= | |_ [-   ]3 /\ |\| |\| [- /? _\~		<strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
+<img src="https://www.codewars.com/users/0asisCat/badges/large" />
+
+```
+	(                                                                  
+	)\ )   )                  (    (       *   )               (       
+	(()/(( /(     (  (         )\ ) )\ )  ` )  /(    (  ( (  (  )\  (   
+ 	/(_))\()) (  )\))(     ( (()/((()/(   ( )(_)|   )\))()\))(((_)))\  
+	(_))((_)\  )\((_)()\    )\ /(_))/(_)) (_(_()))\ ((_))((_))\ _ /((_) 
+	/ __| |(_)((_)(()((_)  ((_|_) _(_) _| |_   _((_) (()(_|()(_) (_))   
+	\__ \ ' \/ _ \ V  V / / _ \|  _||  _|   | |/ _ \/ _` / _` || / -_)  
+	|___/_||_\___/\_/\_/  \___/|_|  |_|     |_|\___/\__, \__, ||_\___|  
+   	                                                |___/|___/        
+```
+
 </details>
