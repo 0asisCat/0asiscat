@@ -13,7 +13,7 @@
 						gpu: "Intel HD graphics 620",
 						ram: "8GB"
 				},
-				current_SOIs: [ "programming", "hacking", "ai" ],
+				current_SOIs: [ "programming", "hacking", "ai", "art" ],
 				studyingLang: [
 						{ name: "js", lvl: "mid" },
 						{ name: "python", lvl: "low-mid" },
