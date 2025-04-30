@@ -6,13 +6,7 @@
                                     /_____ /__/ /_/______ /_______/______/
 
 		let profile = {
-				status: "script_skibidi",
-				pc_specs: {
-						overall_rating: "mid *thumbs_down",
-						cpu: "Intel i5-7200U",
-						gpu: "Intel HD graphics 620",
-						ram: "8GB"
-				},
+				status: "scriptSkibidi",
 				current_SOIs: [ "developing", "breaking", "art" ],
 				studyingLang: [
 						{ lang: "js", lvl: "mid" },
