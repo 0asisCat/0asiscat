@@ -6,7 +6,7 @@
                                     /_____ /__/ /_/______ /_______/______/
 
 		let profile = {
-				status: "scriptSkibidi",
+				status: "Skid",
 				current_SOIs: [ "developing", "breaking", "art" ],
 				studyingLang: [
 						{ lang: "js", lvl: "mid" },
