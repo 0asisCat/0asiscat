@@ -6,7 +6,7 @@
                                     /_____ /__/ /_/______ /_______/______/
 
 		let profile = {<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
-				status: "Skid",
+				status: "Skid",<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
 				current_SOIs: [ "developing", "breaking", "art" ],
 				studyingLang: [
 						{ lang: "js", lvl: "mid" },
@@ -17,9 +17,9 @@
 			      };
 
 ```
-	
-<summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
+
 <details>
+<summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
 <img src="https://www.codewars.com/users/0asisCat/badges/large" />
 
