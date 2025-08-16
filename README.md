@@ -12,13 +12,12 @@
 						{ lang: "js", lvl: "mid" },
 						{ lang: "python", lvl: "low-mid" },
 						{ lang: "java", lvl: "lowww"},
-						{ lang: "c", lvl: "wtfisthis"}
+						<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>{ lang: "c", lvl: "wtfisthis"}
 				]
 			      };
 
 ```
-<details>   <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
-	
+
 <summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
@@ -36,4 +35,4 @@
    	                                                |___/|___/        
 ```
 </details>
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
+
