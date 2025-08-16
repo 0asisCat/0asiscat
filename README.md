@@ -12,14 +12,14 @@
 						{ lang: "js", lvl: "mid" },
 						{ lang: "python", lvl: "low-mid" },
 						{ lang: "java", lvl: "lowww"},
-						<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>{ lang: "c", lvl: "wtfisthis"}
+						<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>{ lang: "c", lvl: "wtfisthis"}<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
 				]
 			      };
 
 ```
-
+	
 <summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
-
+<details>
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
 <img src="https://www.codewars.com/users/0asisCat/badges/large" />
 
