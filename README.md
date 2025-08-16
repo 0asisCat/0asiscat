@@ -5,14 +5,14 @@
                                      /  /_/  / __   /___/  /__/ /______/  /
                                     /_____ /__/ /_/______ /_______/______/
 
-		let profile = {<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
-				status: "Skid",<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
+		let profile = 
+				status: "Skid",
 				current_SOIs: [ "developing", "breaking", "art" ],
 				studyingLang: [
 						{ lang: "js", lvl: "mid" },
 						{ lang: "python", lvl: "low-mid" },
 						{ lang: "java", lvl: "lowww"},
-						<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>{ lang: "c", lvl: "wtfisthis"}<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
+						{ lang: "c", lvl: "wtfisthis"}
 				]
 			      };
 
