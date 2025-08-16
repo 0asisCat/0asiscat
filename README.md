@@ -5,7 +5,7 @@
                                      /  /_/  / __   /___/  /__/ /______/  /
                                     /_____ /__/ /_/______ /_______/______/
 
-		let profile = {
+		let profile = {<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
 				status: "Skid",
 				current_SOIs: [ "developing", "breaking", "art" ],
 				studyingLang: [
@@ -17,9 +17,9 @@
 			      };
 
 ```
-<details>   
+<details>   <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
 	
-<summary>|^ /? () /= | |_ [-   ]3 /\ |\| |\| [- /? _\~		<strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
+<summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
 <img src="https://www.codewars.com/users/0asisCat/badges/large" />
@@ -35,5 +35,5 @@
 	|___/_||_\___/\_/\_/  \___/|_|  |_|     |_|\___/\__, \__, ||_\___|  
    	                                                |___/|___/        
 ```
-
 </details>
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1012734700/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://vrtlhvn.bandcamp.com/album/beyenueral-impact">BEYENUERAL IMPACT by VRTLHVN</a></iframe>
