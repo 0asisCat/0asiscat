@@ -5,23 +5,23 @@
                                      /  /_/  / __   /___/  /__/ /______/  /
                                     /_____ /__/ /_/______ /_______/______/
 
-		let profile = 
-				status: "Skid",
-				current_SOIs: [ "developing", "breaking", "art" ],
-				studyingLang: [
-						{ lang: "js", lvl: "mid" },
-						{ lang: "python", lvl: "low-mid" },
-						{ lang: "java", lvl: "lowww"},
-						{ lang: "c", lvl: "wtfisthis"}
-				]
-			      };
-
+				const profile = {
+ 									 status: "Aspiring Purple Teamer",
+ 									 education: {
+    												degree: "BS IT Network & Cybersecurity",
+													school: "MMDC"
+  								},
+									 interests: ["CTF", "Web Exploit", "Development (Soon)"],
+                                     currentlyLearning: "Learn Fundamentals of Security Engineer",
+  									 funFact: "I prolly spend more time in a terminal than in a GUI."
+								};
 ```
 
 <details>
 <summary><strong>(★^O^★)~~[CLICK ME]~~></strong></summary>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="Your Image Badge" width="30%"/>
-<img src="https://www.codewars.com/users/0asisCat/badges/large" />
+  
+<img src="https://tryhackme-badges.s3.amazonaws.com/0as.png" alt="TryHackMe Badge" width="30%"/>
+<img src="https://www.codewars.com/users/0asisCat/badges/large" alt="Codewars Badge"/>
 
 ```
 	(                                                                  
@@ -35,4 +35,3 @@
    	                                                |___/|___/        
 ```
 </details>
-
