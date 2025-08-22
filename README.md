@@ -6,7 +6,7 @@
                                     /_____ /__/ /_/______ /_______/______/
 
 				const profile = {
- 									 status: "Aspiring Purple Teamer",
+ 									 status: "Skid Aspiring to be a Purple Teamer",
  									 education: {
     												degree: "BS IT Network & Cybersecurity",
 													school: "MMDC"
