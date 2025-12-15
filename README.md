@@ -11,9 +11,8 @@
     												degree: "BS IT Network & Cybersecurity",
 													uni: "MMDC"
   								},
-									 interests: ["CTF", "Web Exploit", "Creative Coding"],
-                                     currentlyLearning: "Learn Fundamentals of Security Engineer",
-  									 funFact: "I prolly spend more time in a terminal than in a GUI."
+									 interests: ["CTF", "Web Pentest", "Creative Coding"],
+                                     currentlyLearning: "Web Application Pentesting"
 								};
 ```
 
