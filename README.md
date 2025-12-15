@@ -9,7 +9,7 @@
  									 status: "Skid's road to Security Engineer",
  									 education: {
     												degree: "BS IT Network & Cybersecurity",
-													school: "MMDC"
+													uni: "MMDC"
   								},
 									 interests: ["CTF", "Web Exploit", "Creative Coding"],
                                      currentlyLearning: "Learn Fundamentals of Security Engineer",
