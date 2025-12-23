@@ -12,7 +12,7 @@
 													uni: "MMDC"
   								},
 									 interests: ["CTF", "Web Pentest", "Creative Coding"],
-                                     currentlyLearning: "Web Application Pentesting"
+                                     currentlyLearning: ["Web Application Pentesting", "Python"]
 								};
 ```
 
