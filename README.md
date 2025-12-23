@@ -10,7 +10,7 @@
  									 education: {
     												degree: "BS IT Network & Cybersecurity",
 													uni: "MMDC"
-  								},
+                                                },
 									 interests: ["CTF", "Web Pentest", "Creative Coding"],
                                      currentlyLearning: ["Web Application Pentesting", "Python"]
 								};
